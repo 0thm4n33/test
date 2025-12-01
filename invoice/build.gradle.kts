@@ -13,6 +13,6 @@ dependencies {
     implementation("org.springframework:spring-context")
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
 
-    implementation("com.itextpdf:itext7-core:9.2.0")
+    implementation("com.itextpdf:itext7-core:9.4.0")
     runtimeOnly("org.postgresql:postgresql")
 }
