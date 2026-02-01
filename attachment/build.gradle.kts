@@ -6,5 +6,5 @@ dependencies {
     implementation(project(":util"))
     implementation(project(":tenant"))
 
-    implementation("com.itextpdf:itext7-core:9.2.0")
+    implementation("com.itextpdf:itext7-core:9.5.0")
 }
