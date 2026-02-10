@@ -27,8 +27,8 @@ dependencies {
     // Thymeleaf and HTMX support
     implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity6")
     implementation("nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect")
-    implementation("io.github.wimdeblauwe:htmx-spring-boot:4.0.1")
-    implementation("io.github.wimdeblauwe:htmx-spring-boot-thymeleaf:4.0.1")
+    implementation("io.github.wimdeblauwe:htmx-spring-boot:5.0.0")
+    implementation("io.github.wimdeblauwe:htmx-spring-boot-thymeleaf:5.0.0")
 
     // Database & Migration dependencies
     implementation("org.flywaydb:flyway-core")
